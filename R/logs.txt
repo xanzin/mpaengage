@@ -1,0 +1,84 @@
+
+
+##### Portofino2.6_2050 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
+
+
+##### Portofino4.5_2050 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
+
+
+##### Portofino8.5_2050 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
+
+
+##### Portofino2.6_2100 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
+
+
+##### Portofino4.5_2100 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
+
+
+##### Portofino8.5_2100 #####
+Unexpected values 'n/a' for indicator 'SP.SEN.SST'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SEN.MHW'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.ST'. Removing from data.
+Unexpected values 'n/a' for indicator 'HB.CON'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.DISP'. Removing from data.
+Unexpected values 'n/a' for indicator 'FECUN'. Removing from data.
+Unexpected values 'n/a' for indicator 'P.FEES'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.COLA.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.CONFW.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'U.JUST.PF'. Removing from data.
+Unexpected values 'n/a' for indicator 'SP.SIZE'. Removing from data.
